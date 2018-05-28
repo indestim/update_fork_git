@@ -1,5 +1,5 @@
-# Update a Fork of Git repository
+# Actualizar Fork de un repositorio
 
-Step to step
+Paso a paso
 -------
 ![ScreenShot](https://raw.github.com/indestim/update_fork_git/master/screenshot/image_update.png)
